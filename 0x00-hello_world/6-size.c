@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- *main - 6-size.c
+ *main - Entry point
  *
- * Return: 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
