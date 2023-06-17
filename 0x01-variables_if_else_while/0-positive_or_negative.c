@@ -15,7 +15,8 @@ int main(void)
 	pintf("%d is posetive\n", n);
 	else if (n < 0)
 	pintf("%d is negative\n", n);
-	else 
+	else
 	pintf("%d is zero\n", n);
+
 	return (0);
 }
