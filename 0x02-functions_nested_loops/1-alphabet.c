@@ -2,7 +2,7 @@
 
 /**
  * main - print_alphabet
- * 
+ * print_alphabet 
  * Return:void
  */
 
