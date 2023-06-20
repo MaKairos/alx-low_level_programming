@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Print_alphabet
- * Print_alphabet - Make the alphabets
+ * Print_alphabet - Entry point
+ * Print_alphabet
  * Return:void
  */
 
